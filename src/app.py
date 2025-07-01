@@ -38,7 +38,14 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Hiking": {
+        "description": "Explore nature trails and enjoy outdoor adventures with fellow students",
+        "schedule": "Saturdays, 9:00 AM - 2:00 PM",
+        "max_participants": 15,
+        "participants": ["sarah@mergington.edu", "alex@mergington.edu", "jamie@mergington.edu"]
     }
+    
 }
 
 
